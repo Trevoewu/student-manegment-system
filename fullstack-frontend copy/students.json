@@ -1,0 +1,19 @@
+[{
+  "name":"Elaine Rodgers",
+ "gender":"male",
+ "major":"Physics - Quantum Physics",
+ "address":"9513 Bayport Street Perth Amboy, NJ 08861"
+},
+{
+  "name":"Laurie Brooks",
+ "gender":"female",
+ "major":"Economics - Computational Economics",
+ "address":"17 Piper Rd.Casselberry, FL 32707"
+},
+{
+  "name":"Calvin Rhodes",
+ "gender":"male",
+ "major":"Materials Science And Engineering - Polymer Science",
+ "address":"8981 NE. Trenton St.Coatesville, PA 19320"
+}
+]
